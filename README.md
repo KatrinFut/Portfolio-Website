@@ -1,2 +1,2 @@
-# Portfolio Katrin
+# Projects Katrin
 Here I upload my private projects
